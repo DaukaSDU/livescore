@@ -1,0 +1,35 @@
+.content__primary {
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.content__primary>span {
+    font-size: 20px;
+    color: #fff;
+    margin-left: 10px;
+}
+
+.content__primary ul li span {
+    font-size: 16px;
+    margin-left: 0;
+}
+
+.content__primary ul li p {
+    display: inline;
+}
+
+.content__primary ul li {
+    margin-bottom: 10px;
+}
+
+.content__primary p {
+    font-size: 14px;
+    line-height: 1.7;
+    font-weight: 100;
+}
+
+.livefootball {
+    color: #ff6b00;
+}
