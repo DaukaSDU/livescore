@@ -41,7 +41,7 @@
 }
 
 .menu__link {
-  font-size: 1.2rem;
+  font-size: 18px;
   color: #fff;
   margin: 0 10px;
   display: inline-block;
@@ -58,13 +58,13 @@
 .footer p {
   color: #fff;
   margin: 15px 0 10px 0;
-  font-size: 1rem;
+  font-size: 14px;
   font-weight: 300;
 }
 
 .footer-svg {
-  widows: 32px;
-  height: 32px;
+  widows: 24px;
+  height: 24px;
   fill: #fff;
 }
 
