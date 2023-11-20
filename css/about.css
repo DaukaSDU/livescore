@@ -1,8 +1,9 @@
 .content__primary {
-    padding: 10px 20px;
+    padding: 15px 30px;
     display: flex;
     flex-direction: column;
     gap: 20px;
+    width: 100%;
 }
 
 .content__primary>span {
